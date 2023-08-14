@@ -1,7 +1,7 @@
 public class VerificadorNumeroPrimo {
 
     public static void main(String[] args) {
-        int numero = 17; // Altere para o número que deseja verificar
+        int numero = 57; 
         int resultado = verificaNumeroPrimo(numero);
        
         if (resultado == 1) {
